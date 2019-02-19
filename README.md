@@ -15,7 +15,7 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 
 ## SCHEMA ELECTRIQUE
 
-![photo: ]()
+![photo: ](ButtonDASH-fritz.jpg)
 
 ## NODE-RED
 
